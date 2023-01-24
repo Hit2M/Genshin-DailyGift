@@ -1,5 +1,10 @@
 # Genshin-DailyGift
 
+## How to USE?
+1. npm i
+2. node index
+
+
 ## How can I get my cookies?
 1. go to [hoyolab.com](https://www.hoyolab.com/genshin/)
 2. login to your account
